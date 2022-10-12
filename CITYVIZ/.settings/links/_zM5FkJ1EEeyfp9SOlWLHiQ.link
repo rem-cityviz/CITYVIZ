@@ -1,0 +1,70 @@
+{
+  "itemId" : "_zM5FkJ1EEeyfp9SOlWLHiQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_G2p6cJ1FEeyfp9SOlWLHiQ",
+    "parameterList" : [ {
+      "id" : "_G26ZJp1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_AdditionalParams"
+    }, {
+      "id" : "_G26ZJ51FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Database"
+    }, {
+      "id" : "_G26ZI51FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Login"
+    }, {
+      "id" : "_G26ZJJ1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Password"
+    }, {
+      "id" : "_G26ZIZ1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Port"
+    }, {
+      "id" : "_G26ZIp1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Schema"
+    }, {
+      "id" : "_G26ZJZ1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_sDldYJ1AEeyfp9SOlWLHiQ",
+    "parameterList" : [ {
+      "id" : "_sD935p1AEeyfp9SOlWLHiQ",
+      "name" : "cityviz_staging_AdditionalParams"
+    }, {
+      "id" : "_sD93551AEeyfp9SOlWLHiQ",
+      "name" : "cityviz_staging_Database"
+    }, {
+      "id" : "_sD93451AEeyfp9SOlWLHiQ",
+      "name" : "cityviz_staging_Login"
+    }, {
+      "id" : "_sD935J1AEeyfp9SOlWLHiQ",
+      "name" : "cityviz_staging_Password"
+    }, {
+      "id" : "_sD934Z1AEeyfp9SOlWLHiQ",
+      "name" : "cityviz_staging_Port"
+    }, {
+      "id" : "_sD934p1AEeyfp9SOlWLHiQ",
+      "name" : "cityviz_staging_Schema"
+    }, {
+      "id" : "_sD935Z1AEeyfp9SOlWLHiQ",
+      "name" : "cityviz_staging_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_9UGi8J1AEeyfp9SOlWLHiQ",
+    "parameterList" : [ {
+      "id" : "_S6cZQJ1BEeyfp9SOlWLHiQ",
+      "name" : "api_result_filename"
+    }, {
+      "id" : "_S6cZQZ1BEeyfp9SOlWLHiQ",
+      "name" : "data_storage_path"
+    }, {
+      "id" : "_NbBPQJ1ZEeyfp9SOlWLHiQ",
+      "name" : "logs_path"
+    }, {
+      "id" : "_9UaE8Z1AEeyfp9SOlWLHiQ",
+      "name" : "param_file_path"
+    } ]
+  } ]
+}

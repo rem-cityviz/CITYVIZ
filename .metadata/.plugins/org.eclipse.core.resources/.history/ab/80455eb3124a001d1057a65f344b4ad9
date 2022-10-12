@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_slb-UZ-SEeyu2beSuR8vAQ" id="_bn3coLAqEey1luYCqMyp8g" label="daily_loading_staging" purpose="Chatgement quotidien de tous les nouveaux marchés dans notre système" description="1.1 : Charge les données de marché publique publiée le jour même.&#xD;&#xA;1.2 : Ajout de fichier de logs, à améliorer." version="1.2" statusCode="" item="_slb-U5-SEeyu2beSuR8vAQ" displayName="daily_loading_staging">
+    <author href="../../../talend.project#_n4l5MDyAEey-Aa9sPoOfVA"/>
+    <additionalProperties xmi:id="_sleakJ-SEeyu2beSuR8vAQ" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_sleakZ-SEeyu2beSuR8vAQ" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_sleakp-SEeyu2beSuR8vAQ" key="created_date" value="2022-03-30T15:08:03.142+0200"/>
+    <additionalProperties xmi:id="_sleak5-SEeyu2beSuR8vAQ" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_slealJ-SEeyu2beSuR8vAQ" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_slealZ-SEeyu2beSuR8vAQ" key="modified_date" value="2022-10-12T11:41:02.339+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_botKILAqEey1luYCqMyp8g" path="cv_dataflow/daily_dataflow" locked="true" lockDate="2022-10-12T11:41:02.339+0200">
+    <locker href="../../../talend.project#_n4l5MDyAEey-Aa9sPoOfVA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_slb-U5-SEeyu2beSuR8vAQ" property="_slb-UZ-SEeyu2beSuR8vAQ" state="_botKILAqEey1luYCqMyp8g">
+    <process href="daily_loading_staging_1.2.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

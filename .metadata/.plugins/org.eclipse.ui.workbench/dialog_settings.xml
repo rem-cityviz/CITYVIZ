@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="632"/>
+		<item key="DIALOG_Y_ORIGIN" value="132"/>
+	</section>
+	<section name="ExportItemWizard">
+		<section name="destinationFile">
+			<item key="directoryPath" value="C:\workspaceCV\cityviz\CITYVIZ"/>
+		</section>
+	</section>
+	<section name="JobScriptsExportWizard">
+		<item key="JavaJobScriptsExportWizardPage.STORE_SHELL_LAUNCHER_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_SYSTEM_ROUTINE_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_USER_ROUTINE_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_MODEL_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_JOB_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_DEPENDENCIES_ID" value="false"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_CONTEXT_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.APPLY_TO_CHILDREN_ID" value="false"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_WEBXML_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_CONFIGFILE_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_AXISLIB_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_WSDD_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_WSDL_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_SOURCE_ID" value="true"/>
+		<item key="JavaJobScriptsExportWizardPage.STORE_EXPORTTYPE_ID" value="POJO"/>
+		<item key="JavaJobScriptsExportWizardPage.EXTRACT_ZIP_FILE" value="false"/>
+		<list key="JavaJobScriptsExportWizardPage.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\workspaceCV\cityviz\SOURCES\daily_loading_dwh_1.1.zip"/>
+			<item value="C:\workspaceCV\cityviz\SOURCES\daily_loading_staging_1.2.zip"/>
+			<item value="C:\workspaceCV\cityviz\SOURCES\cv_dataflow.zip"/>
+			<item value="C:\workspaceCV\cityviz\SCRIPTS\cv_dataflow_09_03_2022.zip"/>
+		</list>
+		<section name="destinationFile">
+			<item key="destinationFile" value="C:\workspaceCV\cityviz\SOURCES\daily_loading_dwh_1.1.zip"/>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_W8afIFzxEeyVnNOpUOVwag" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_W8afIVzxEeyVnNOpUOVwag" comment="" name="pyExe" prompt="pyExe?" promptNeeded="false" type="id_String" value="&quot;data-science/anaconda3/python.exe&quot;"/>
+</talendfile:ContextType>

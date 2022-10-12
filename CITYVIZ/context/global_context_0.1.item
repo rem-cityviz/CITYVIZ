@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_9UaE8J1AEeyfp9SOlWLHiQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_9UaE8Z1AEeyfp9SOlWLHiQ" comment="" name="param_file_path" prompt="param_file_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/workspaceCV/cityviz/config_API.csv"/>
+  <contextParameter xmi:id="_S6cZQJ1BEeyfp9SOlWLHiQ" comment="" name="api_result_filename" prompt="api_result_filename?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="open-data-extract.json"/>
+  <contextParameter xmi:id="_S6cZQZ1BEeyfp9SOlWLHiQ" comment="" name="data_storage_path" prompt="data_storage_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/workspaceCV/cityviz/data"/>
+  <contextParameter xmi:id="_NbBPQJ1ZEeyfp9SOlWLHiQ" comment="" name="logs_path" prompt="logs_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/workspaceCV/cityviz/LOGS"/>
+  <contextParameter xmi:id="_r6hYgK3JEey3erehvAOlWQ" comment="" name="start_value" prompt="start_value?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
+</talendfile:ContextType>

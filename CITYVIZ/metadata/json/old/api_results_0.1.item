@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendJSON="http://www.talend.org/json" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendJSON:JSONFileConnection xmi:id="_ps1_UErJEeyhBOphYOI_Vg" name="api_results" dataPackage="_ps2mm0rJEeyhBOphYOI_Vg" ContextMode="true" ContextId="_7dvu8ErmEeyhBOphYOI_Vg" contextName="Default" JSONFilePath="context.api_results_FilePath" Encoding="context.api_results_Encoding" readbyMode="JSONPATH">
+    <schema xmi:id="_ps1_UUrJEeyhBOphYOI_Vg" LimitBoucle="500" AbsoluteXPathQuery="context.api_results_XPathQuery">
+      <schemaTargets xmi:id="_ps1_VErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.sirenetablissementvalide" TagName="sirenetablissementvalide"/>
+      <schemaTargets xmi:id="_ps1_VUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.denominationsocialeetablissement" TagName="denominationsocialeetablissement"/>
+      <schemaTargets xmi:id="_ps1_VkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.libellecommuneacheteur" TagName="libellecommuneacheteur"/>
+      <schemaTargets xmi:id="_ps1_V0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.lieuexecutioncode" TagName="lieuexecutioncode"/>
+      <schemaTargets xmi:id="_ps1_WErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.adresseetablissement" TagName="adresseetablissement"/>
+      <schemaTargets xmi:id="_ps1_WUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codepostalacheteur" TagName="codepostalacheteur"/>
+      <schemaTargets xmi:id="_ps1_WkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.libelleregionacheteur" TagName="libelleregionacheteur"/>
+      <schemaTargets xmi:id="_ps1_W0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.departementacheteur" TagName="departementacheteur"/>
+      <schemaTargets xmi:id="_ps1_XErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.idmarche" TagName="idmarche"/>
+      <schemaTargets xmi:id="_ps2mYErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.dureemois" TagName="dureemois"/>
+      <schemaTargets xmi:id="_ps2mYUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.datenotification" TagName="datenotification"/>
+      <schemaTargets xmi:id="_ps2mYkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.montantcalcule" TagName="montantcalcule"/>
+      <schemaTargets xmi:id="_ps2mY0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.libelledepartementacheteur" TagName="libelledepartementacheteur"/>
+      <schemaTargets xmi:id="_ps2mZErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codecpv_division" TagName="codecpv_division"/>
+      <schemaTargets xmi:id="_ps2mZUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.lieuexecutionnom" TagName="lieuexecutionnom"/>
+      <schemaTargets xmi:id="_ps2mZkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.libellearrondissementacheteur" TagName="libellearrondissementacheteur"/>
+      <schemaTargets xmi:id="_ps2mZ0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.populationcommuneetablissement" TagName="populationcommuneetablissement"/>
+      <schemaTargets xmi:id="_ps2maErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codecommuneacheteur" TagName="codecommuneacheteur"/>
+      <schemaTargets xmi:id="_ps2maUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.superficiecommuneetablissement" TagName="superficiecommuneetablissement"/>
+      <schemaTargets xmi:id="_ps2makrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.nicetablissement" TagName="nicetablissement"/>
+      <schemaTargets xmi:id="_ps2ma0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.geoloccommuneetablissement[*]" TagName="geoloccommuneetablissement___"/>
+      <schemaTargets xmi:id="_ps2mbErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.objetmarche" TagName="objetmarche"/>
+      <schemaTargets xmi:id="_ps2mbUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.libellearrondissementetablissement" TagName="libellearrondissementetablissement"/>
+      <schemaTargets xmi:id="_ps2mbkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.nombretitulairesurmarchepresume" TagName="nombretitulairesurmarchepresume"/>
+      <schemaTargets xmi:id="_ps2mb0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.libelleregionetablissement" TagName="libelleregionetablissement"/>
+      <schemaTargets xmi:id="_ps2mcErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.id" TagName="id"/>
+      <schemaTargets xmi:id="_ps2mcUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.source" TagName="source"/>
+      <schemaTargets xmi:id="_ps2mckrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.dureemoisestimee" TagName="dureemoisestimee"/>
+      <schemaTargets xmi:id="_ps2mc0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codedepartementexecution" TagName="codedepartementexecution"/>
+      <schemaTargets xmi:id="_ps2mdErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.referencecpv" TagName="referencecpv"/>
+      <schemaTargets xmi:id="_ps2mdUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.type" TagName="type"/>
+      <schemaTargets xmi:id="_ps2mdkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.sirenetablissement" TagName="sirenetablissement"/>
+      <schemaTargets xmi:id="_ps2md0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.superficiecommuneacheteur" TagName="superficiecommuneacheteur"/>
+      <schemaTargets xmi:id="_ps2meErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codearrondissementacheteur" TagName="codearrondissementacheteur"/>
+      <schemaTargets xmi:id="_ps2meUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.distanceacheteuretablissement" TagName="distanceacheteuretablissement"/>
+      <schemaTargets xmi:id="_ps2mekrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.communeetablissement" TagName="communeetablissement"/>
+      <schemaTargets xmi:id="_ps2me0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.montant" TagName="montant"/>
+      <schemaTargets xmi:id="_ps2mfErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.departementetablissement" TagName="departementetablissement"/>
+      <schemaTargets xmi:id="_ps2mfUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.datepublicationdonnees" TagName="datepublicationdonnees"/>
+      <schemaTargets xmi:id="_ps2mfkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codearrondissementetablissement" TagName="codearrondissementetablissement"/>
+      <schemaTargets xmi:id="_ps2mf0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.sirenacheteurvalide" TagName="sirenacheteurvalide"/>
+      <schemaTargets xmi:id="_ps2mgErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.moisnotification" TagName="moisnotification"/>
+      <schemaTargets xmi:id="_ps2mgUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.coderegionetablissement" TagName="coderegionetablissement"/>
+      <schemaTargets xmi:id="_ps2mgkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.formeprix" TagName="formeprix"/>
+      <schemaTargets xmi:id="_ps2mg0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.siretetablissementvalide" TagName="siretetablissementvalide"/>
+      <schemaTargets xmi:id="_ps2mhErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.nomacheteur" TagName="nomacheteur"/>
+      <schemaTargets xmi:id="_ps2mhUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.dist" TagName="dist"/>
+      <schemaTargets xmi:id="_ps2mhkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.coderegionacheteur" TagName="coderegionacheteur"/>
+      <schemaTargets xmi:id="_ps2mh0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.lieuexecutiontypecode" TagName="lieuexecutiontypecode"/>
+      <schemaTargets xmi:id="_ps2miErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codecommuneetablissement" TagName="codecommuneetablissement"/>
+      <schemaTargets xmi:id="_ps2miUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.populationcommuneacheteur" TagName="populationcommuneacheteur"/>
+      <schemaTargets xmi:id="_ps2mikrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.idacheteur" TagName="idacheteur"/>
+      <schemaTargets xmi:id="_ps2mi0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codecpv_original" TagName="codecpv_original"/>
+      <schemaTargets xmi:id="_ps2mjErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.siretetablissement" TagName="siretetablissement"/>
+      <schemaTargets xmi:id="_ps2mjUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.libelledepartementetablissement" TagName="libelledepartementetablissement"/>
+      <schemaTargets xmi:id="_ps2mjkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.typeidentifiantetablissement" TagName="typeidentifiantetablissement"/>
+      <schemaTargets xmi:id="_ps2mj0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codecpv" TagName="codecpv"/>
+      <schemaTargets xmi:id="_ps2mkErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.categorieetablissement" TagName="categorieetablissement"/>
+      <schemaTargets xmi:id="_ps2mkUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.coderegionexecution" TagName="coderegionexecution"/>
+      <schemaTargets xmi:id="_ps2mkkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codepostaletablissement" TagName="codepostaletablissement"/>
+      <schemaTargets xmi:id="_ps2mk0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.natureobjetmarche" TagName="natureobjetmarche"/>
+      <schemaTargets xmi:id="_ps2mlErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.dureemoiscalculee" TagName="dureemoiscalculee"/>
+      <schemaTargets xmi:id="_ps2mlUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.codetypeetablissement" TagName="codetypeetablissement"/>
+      <schemaTargets xmi:id="_ps2mlkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.geoloccommuneacheteur[*]" TagName="geoloccommuneacheteur___"/>
+      <schemaTargets xmi:id="_ps2ml0rJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.nature" TagName="nature"/>
+      <schemaTargets xmi:id="_ps2mmErJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.anneenotification" TagName="anneenotification"/>
+      <schemaTargets xmi:id="_ps2mmUrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.libelleregionexecution" TagName="libelleregionexecution"/>
+      <schemaTargets xmi:id="_ps2mmkrJEeyhBOphYOI_Vg" RelativeXPathQuery="fields.procedure" TagName="procedure"/>
+    </schema>
+  </TalendJSON:JSONFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_ps2mm0rJEeyhBOphYOI_Vg" name="default" dataManager="_ps1_UErJEeyhBOphYOI_Vg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ps2mnErJEeyhBOphYOI_Vg" id="_3MR1YErIEeyhBOphYOI_Vg" label="api_metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mn0rJEeyhBOphYOI_Vg" label="sirenetablissementvalide" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2moErJEeyhBOphYOI_Vg" label="denominationsocialeetablissement" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2moUrJEeyhBOphYOI_Vg" label="libellecommuneacheteur" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mokrJEeyhBOphYOI_Vg" label="lieuexecutioncode" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mo0rJEeyhBOphYOI_Vg" label="adresseetablissement" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mpErJEeyhBOphYOI_Vg" label="codepostalacheteur" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mpUrJEeyhBOphYOI_Vg" label="libelleregionacheteur" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mpkrJEeyhBOphYOI_Vg" label="departementacheteur" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mp0rJEeyhBOphYOI_Vg" label="idmarche" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mqErJEeyhBOphYOI_Vg" label="dureemois" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mqUrJEeyhBOphYOI_Vg" label="datenotification" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mqkrJEeyhBOphYOI_Vg" label="montantcalcule" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mq0rJEeyhBOphYOI_Vg" label="libelledepartementacheteur" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mrErJEeyhBOphYOI_Vg" label="codecpv_division" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mrUrJEeyhBOphYOI_Vg" label="lieuexecutionnom" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mrkrJEeyhBOphYOI_Vg" label="libellearrondissementacheteur" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mr0rJEeyhBOphYOI_Vg" label="populationcommuneetablissement" length="8" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2msErJEeyhBOphYOI_Vg" label="codecommuneacheteur" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2msUrJEeyhBOphYOI_Vg" label="superficiecommuneetablissement" length="6" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mskrJEeyhBOphYOI_Vg" label="nicetablissement" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2ms0rJEeyhBOphYOI_Vg" label="geoloccommuneetablissement___" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mtErJEeyhBOphYOI_Vg" label="objetmarche" length="187" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mtUrJEeyhBOphYOI_Vg" label="libellearrondissementetablissement" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mtkrJEeyhBOphYOI_Vg" label="nombretitulairesurmarchepresume" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mt0rJEeyhBOphYOI_Vg" label="libelleregionetablissement" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2muErJEeyhBOphYOI_Vg" label="id" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2muUrJEeyhBOphYOI_Vg" label="source" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mukrJEeyhBOphYOI_Vg" label="dureemoisestimee" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mu0rJEeyhBOphYOI_Vg" label="codedepartementexecution" length="4" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mvErJEeyhBOphYOI_Vg" label="referencecpv" length="97" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mvUrJEeyhBOphYOI_Vg" label="type" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mvkrJEeyhBOphYOI_Vg" label="sirenetablissement" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mv0rJEeyhBOphYOI_Vg" label="superficiecommuneacheteur" length="6" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mwErJEeyhBOphYOI_Vg" label="codearrondissementacheteur" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mwUrJEeyhBOphYOI_Vg" label="distanceacheteuretablissement" length="17" precision="16" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mwkrJEeyhBOphYOI_Vg" label="communeetablissement" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mw0rJEeyhBOphYOI_Vg" label="montant" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mxErJEeyhBOphYOI_Vg" label="departementetablissement" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mxUrJEeyhBOphYOI_Vg" label="datepublicationdonnees" length="10" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mxkrJEeyhBOphYOI_Vg" label="codearrondissementetablissement" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mx0rJEeyhBOphYOI_Vg" label="sirenacheteurvalide" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2myErJEeyhBOphYOI_Vg" label="moisnotification" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2myUrJEeyhBOphYOI_Vg" label="coderegionetablissement" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mykrJEeyhBOphYOI_Vg" label="formeprix" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2my0rJEeyhBOphYOI_Vg" label="siretetablissementvalide" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mzErJEeyhBOphYOI_Vg" label="nomacheteur" length="27" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mzUrJEeyhBOphYOI_Vg" label="dist" length="13" precision="10" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mzkrJEeyhBOphYOI_Vg" label="coderegionacheteur" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2mz0rJEeyhBOphYOI_Vg" label="lieuexecutiontypecode" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m0ErJEeyhBOphYOI_Vg" label="codecommuneetablissement" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m0UrJEeyhBOphYOI_Vg" label="populationcommuneacheteur" length="7" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m0krJEeyhBOphYOI_Vg" label="idacheteur" length="14" talendType="id_Long" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m00rJEeyhBOphYOI_Vg" label="codecpv_original" length="8" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m1ErJEeyhBOphYOI_Vg" label="siretetablissement" length="14" talendType="id_Long" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m1UrJEeyhBOphYOI_Vg" label="libelledepartementetablissement" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m1krJEeyhBOphYOI_Vg" label="typeidentifiantetablissement" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m10rJEeyhBOphYOI_Vg" label="codecpv" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m2ErJEeyhBOphYOI_Vg" label="categorieetablissement" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m2UrJEeyhBOphYOI_Vg" label="coderegionexecution" length="4" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m2krJEeyhBOphYOI_Vg" label="codepostaletablissement" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m20rJEeyhBOphYOI_Vg" label="natureobjetmarche" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m3ErJEeyhBOphYOI_Vg" label="dureemoiscalculee" length="4" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m3UrJEeyhBOphYOI_Vg" label="codetypeetablissement" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m3krJEeyhBOphYOI_Vg" label="geoloccommuneacheteur___" length="29" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m30rJEeyhBOphYOI_Vg" label="nature" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m4ErJEeyhBOphYOI_Vg" label="anneenotification" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m4UrJEeyhBOphYOI_Vg" label="libelleregionexecution" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ps2m4krJEeyhBOphYOI_Vg" label="procedure" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

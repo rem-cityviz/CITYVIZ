@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendJSON="http://www.talend.org/json" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_ps2m40rJEeyhBOphYOI_Vg" id="_ps0xMErJEeyhBOphYOI_Vg" label="api_results" purpose="Schema of he response of the pen-data api" version="0.1" statusCode="" item="_ps2m5UrJEeyhBOphYOI_Vg" displayName="api_results">
+    <author href="../../talend.project#_n4l5MDyAEey-Aa9sPoOfVA"/>
+    <additionalProperties xmi:id="_ptPA4ErJEeyhBOphYOI_Vg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_ptPA4UrJEeyhBOphYOI_Vg" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_ptPA4krJEeyhBOphYOI_Vg" key="created_date" value="2021-11-21T13:50:48.941+0100"/>
+    <additionalProperties xmi:id="_ptPA40rJEeyhBOphYOI_Vg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_ptPA5ErJEeyhBOphYOI_Vg" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_ptPA5UrJEeyhBOphYOI_Vg" key="modified_date" value="2021-11-23T17:23:29.130+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ps2m5ErJEeyhBOphYOI_Vg" path=""/>
+  <TalendJSON:JSONFileConnectionItem xmi:id="_ps2m5UrJEeyhBOphYOI_Vg" property="_ps2m40rJEeyhBOphYOI_Vg" state="_ps2m5ErJEeyhBOphYOI_Vg">
+    <connection href="api_results_0.1.item#_ps1_UErJEeyhBOphYOI_Vg"/>
+  </TalendJSON:JSONFileConnectionItem>
+</xmi:XMI>

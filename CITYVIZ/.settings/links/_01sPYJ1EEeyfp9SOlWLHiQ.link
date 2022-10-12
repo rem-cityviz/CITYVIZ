@@ -1,0 +1,29 @@
+{
+  "itemId" : "_01sPYJ1EEeyfp9SOlWLHiQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_G2p6cJ1FEeyfp9SOlWLHiQ",
+    "parameterList" : [ {
+      "id" : "_G26ZIZ1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Port"
+    }, {
+      "id" : "_G26ZIp1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Schema"
+    }, {
+      "id" : "_G26ZI51FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Login"
+    }, {
+      "id" : "_G26ZJJ1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Password"
+    }, {
+      "id" : "_G26ZJZ1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Server"
+    }, {
+      "id" : "_G26ZJp1FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_AdditionalParams"
+    }, {
+      "id" : "_G26ZJ51FEeyfp9SOlWLHiQ",
+      "name" : "cityviz_dwh_Database"
+    } ]
+  } ]
+}

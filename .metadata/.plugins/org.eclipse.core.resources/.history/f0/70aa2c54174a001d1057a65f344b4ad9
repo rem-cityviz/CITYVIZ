@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_slb-UZ-SEeyu2beSuR8vAQ" id="_xAHJQDzXEe2E26HD-05fCQ" label="historical_load_stg" description="1.0 : Charge les données historique d'open-data (environ 350k records) dans la base de staging. Verif des doublons incluses&#xD;&#xA;1.1 : Reprise du projet. Ré-alimentation d'une nouvelle base avec les nouveaux marchés publics." version="1.1" statusCode="" item="_slb-U5-SEeyu2beSuR8vAQ" displayName="historical_load_stg">
+    <author href="../../../talend.project#_n4l5MDyAEey-Aa9sPoOfVA"/>
+    <additionalProperties xmi:id="_sleakJ-SEeyu2beSuR8vAQ" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_sleakZ-SEeyu2beSuR8vAQ" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_sleakp-SEeyu2beSuR8vAQ" key="created_date" value="2022-09-25T15:41:32.756+0200"/>
+    <additionalProperties xmi:id="_sleak5-SEeyu2beSuR8vAQ" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_slealJ-SEeyu2beSuR8vAQ" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_slealZ-SEeyu2beSuR8vAQ" key="modified_date" value="2022-10-12T11:46:15.692+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_xE5ioDzXEe2E26HD-05fCQ" path="M2/INITIAL_LOADING" locked="true" lockDate="2022-10-12T11:21:59.874+0200">
+    <locker href="../../../talend.project#_n4l5MDyAEey-Aa9sPoOfVA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_slb-U5-SEeyu2beSuR8vAQ" property="_slb-UZ-SEeyu2beSuR8vAQ" state="_xE5ioDzXEe2E26HD-05fCQ">
+    <process href="historical_load_stg_1.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

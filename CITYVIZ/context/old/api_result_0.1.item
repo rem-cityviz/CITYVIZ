@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_0a3IkErGEeyhBOphYOI_Vg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_0a3IkUrGEeyhBOphYOI_Vg" comment="" name="api_result_FilePath" prompt="api_result_FilePath?" promptNeeded="false" type="id_File" value="D:/CITYVIZ/workspaceCV/data/data-http.json"/>
+  <contextParameter xmi:id="_0a3IkkrGEeyhBOphYOI_Vg" comment="" name="api_result_Encoding" prompt="api_result_Encoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_0a3Ik0rGEeyhBOphYOI_Vg" comment="" name="api_result_XPathQuery" prompt="api_result_XPathQuery?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

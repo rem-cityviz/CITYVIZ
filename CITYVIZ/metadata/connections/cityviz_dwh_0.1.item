@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_74tmMJ1EEeyfp9SOlWLHiQ" name="cityviz_dwh" id="_01sPYJ1EEeyfp9SOlWLHiQ" label="cityviz_dwh" dataPackage="_Hg-CwJ1FEeyfp9SOlWLHiQ" ContextMode="true" ContextId="_G2p6cJ1FEeyfp9SOlWLHiQ" contextName="Default" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:5432/dwh?" dbVersionString="V9_X" Port="context.cityviz_dwh_Port" Username="context.cityviz_dwh_Login" Password="context.cityviz_dwh_Password" ServerName="context.cityviz_dwh_Server" DatasourceName="" FileFieldName="" SID="context.cityviz_dwh_Database" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="context.cityviz_dwh_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="context.cityviz_dwh_Schema">
+    <taggedValue xmi:id="_74tmMZ1EEeyfp9SOlWLHiQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_746agJ1EEeyfp9SOlWLHiQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_746agZ1EEeyfp9SOlWLHiQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_746agp1EEeyfp9SOlWLHiQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_746ag51EEeyfp9SOlWLHiQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_746ahJ1EEeyfp9SOlWLHiQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_746ahZ1EEeyfp9SOlWLHiQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_746ahp1EEeyfp9SOlWLHiQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_75MHUJ1EEeyfp9SOlWLHiQ" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_75MHUZ1EEeyfp9SOlWLHiQ" tag="DB ProductVersion" value="13.5"/>
+    <taggedValue xmi:id="_75MHUp1EEeyfp9SOlWLHiQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_74tmMp1EEeyfp9SOlWLHiQ" key="CONN_PARA_KEY_USERNAME" value="context.cityviz_dwh_Login"/>
+    <parameters xmi:id="_DCDAYJ1FEeyfp9SOlWLHiQ" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_Hg-CwJ1FEeyfp9SOlWLHiQ" name="dwh" dataManager="_74tmMJ1EEeyfp9SOlWLHiQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_Hg-CwZ1FEeyfp9SOlWLHiQ" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_sD934J1AEeyfp9SOlWLHiQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_sD934Z1AEeyfp9SOlWLHiQ" comment="" name="cityviz_staging_Port" prompt="cityviz_staging_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_sD934p1AEeyfp9SOlWLHiQ" comment="" name="cityviz_staging_Schema" prompt="cityviz_staging_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="stg"/>
+  <contextParameter xmi:id="_sD93451AEeyfp9SOlWLHiQ" comment="" name="cityviz_staging_Login" prompt="cityviz_staging_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_sD935J1AEeyfp9SOlWLHiQ" comment="" name="cityviz_staging_Password" prompt="cityviz_staging_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:eAR3ABhFZ0b+lNnP+oOKOvTk5kWpbTesEo26T/UB1+oGAw=="/>
+  <contextParameter xmi:id="_sD935Z1AEeyfp9SOlWLHiQ" comment="" name="cityviz_staging_Server" prompt="cityviz_staging_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_sD935p1AEeyfp9SOlWLHiQ" comment="" name="cityviz_staging_AdditionalParams" prompt="cityviz_staging_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_sD93551AEeyfp9SOlWLHiQ" comment="" name="cityviz_staging_Database" prompt="cityviz_staging_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="staging"/>
+  <contextParameter xmi:id="_6Eb0ADzYEe2E26HD-05fCQ" comment="" name="citiviz_stg_main_table" prompt="citiviz_stg_main_table?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="public_market"/>
+</talendfile:ContextType>

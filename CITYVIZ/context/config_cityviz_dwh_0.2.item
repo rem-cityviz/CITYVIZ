@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_G26ZIJ1FEeyfp9SOlWLHiQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_G26ZIZ1FEeyfp9SOlWLHiQ" comment="" name="cityviz_dwh_Port" prompt="cityviz_dwh_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_G26ZIp1FEeyfp9SOlWLHiQ" comment="" name="cityviz_dwh_Schema" prompt="cityviz_dwh_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="public"/>
+  <contextParameter xmi:id="_G26ZI51FEeyfp9SOlWLHiQ" comment="" name="cityviz_dwh_Login" prompt="cityviz_dwh_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_G26ZJJ1FEeyfp9SOlWLHiQ" comment="" name="cityviz_dwh_Password" prompt="cityviz_dwh_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:7AT4b1gaVT3KYUl0ct67DslIFHYZ4s4kOebWrFIMayH4rg=="/>
+  <contextParameter xmi:id="_G26ZJZ1FEeyfp9SOlWLHiQ" comment="" name="cityviz_dwh_Server" prompt="cityviz_dwh_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_G26ZJp1FEeyfp9SOlWLHiQ" comment="" name="cityviz_dwh_AdditionalParams" prompt="cityviz_dwh_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_G26ZJ51FEeyfp9SOlWLHiQ" comment="" name="cityviz_dwh_Database" prompt="cityviz_dwh_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="cityviz_dwh"/>
+</talendfile:ContextType>
